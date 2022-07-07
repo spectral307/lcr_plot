@@ -1,0 +1,7 @@
+**/__pycache__/
+lcr_plot.egg-info/
+build/
+**/.qt_for_python
+/.idea
+/.vscode
+/output
